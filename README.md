@@ -3,8 +3,11 @@
 #Run the app
 
 Download project/Clone the app
+
 npm install
+
 npm run dev
+
 Open http://localhost:8000
 
 Shopping cart with React and Typescript.
